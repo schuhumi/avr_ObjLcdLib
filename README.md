@@ -25,6 +25,7 @@ There's a example in main.c, which shows the basics.
 
 Known issues:
  - For some reason some LCDs don't init properly at every second atempt
+
 TODO:
  - Fixed number of digits for INTX
  - Fixed number of digits in front of commata for FLOATX
