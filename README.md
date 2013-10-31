@@ -1,7 +1,7 @@
 avr_ObjLcdLib
 =============
 
-More object-orientated HD44780 LCD-Library for AVR Microcontrollers
+This is a more object-orientated HD44780 LCD-library for AVR Microcontrollers.
 
 This library consits of:
  - LCD.h
@@ -23,3 +23,8 @@ and offers:
 
 There's a example in main.c, which shows the basics.
 
+Known issues:
+ - For some reason some LCDs don't init properly at every second atempt
+TODO:
+ - Fixed number of digits for INTX
+ - Fixed number of digits in front of commata for FLOATX
