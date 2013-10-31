@@ -20,5 +20,6 @@ and offers:
     - LCD_STRING: Print strings
     - LCD_POS: Put the cursor on any position
     - LCD_GENERATECHAR: Easily create your very own characters
+
 There's a example in main.c, which shows the basics.
 
