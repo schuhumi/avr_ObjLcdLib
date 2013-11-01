@@ -6,6 +6,7 @@ This is a more object-orientated HD44780 LCD-library for AVR Microcontrollers wr
 This library consits of:
  - LCD.h
  - LCD.c
+
 and offers:
  - control infinite number of LCDs with no duplicate code
  - 2x4Bit data-transfer + EN-Pin + RS-Pin = Only 6 pins wasted for LCD
